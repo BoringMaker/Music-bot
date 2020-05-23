@@ -1,0 +1,6 @@
+token=NzEzNjE5NDI3MzA3OTQ2MDE1.Xsiv-g.1jymaWAS9a6Pjc-R-pzWl_xc8dQ
+owner=630369125973098497
+prefix = "#"
+
+/play https://www.youtube.com/watch?v=X6Uidi2mD84
+
